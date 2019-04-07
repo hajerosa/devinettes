@@ -9,7 +9,7 @@
           {
               console.log("bravo!");
               console.log("la réponse correcte est:"+choix);
-              console.log("vous avez gagné à la"+ (i+1) +"éme tentative ");
+              console.log("vous avez gagné à la"+ (i+1)+"éme tentative ");
               test=true;
           }
       else if(choix<alea)
